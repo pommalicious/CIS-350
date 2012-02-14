@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="intro">Some text is going to appear here. Type it as fast as you can!</string>
+    <string name="app_name">Typing Game</string>
+    <string name="typetext1">I like pie and cow and pigs and horses and guppies molding clay models of befuddled ducks. Yingah!</string>
+    <string name="ready">Are you ready?</string>
+    <string name="yes">Absolutely</string>
+    <string name="again">Again!</string>
+
+</resources>
